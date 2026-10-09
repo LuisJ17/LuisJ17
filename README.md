@@ -1,1 +1,2 @@
-![Luis Juarez Alvarez](https://shieldcn.dev/header/transparent.svg?title=Luis+Juarez+Alvarez&subtitle=Python+%C2%B7+Linux+%C2%B7+Postgresql+%C2%B7+Docker+%C2%B7+Terraform&logo=ri%3APiDevToLogo&mode=dark&align=left&font=geist-mono)
+
+![Luis Juarez Alvarez - DevOps](https://raw.githubusercontent.com/LuisJ17/LuisJ17/main/banner_1.png)
