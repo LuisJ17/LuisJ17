@@ -12,16 +12,14 @@ Soy un estudiante de ingenieria de sistemas camino a ser un DevOps
 </div>
 
 ### Stats
+<div align="center">
+  <img src="https://ghstats.dev/api/card?username=LuisJ17&theme=ayu&hide_border=true&border_radius=20&size=compact&show_emoji=true" alt="GitHub Stats Card" />
+  <br>
+</div>
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center" style="padding: 4px;">
-      <img src="https://ghstats.dev/api/card?username=LuisJ17&theme=ayu&hide_border=true&border_radius=2&size=compact&show_emoji=true" alt="GitHub Stats Card" />
-    </td>
-    <td align="center" style="padding: 4px;">
-      <img src="https://ghstats.dev/api/langs?username=LuisJ17&theme=ayu&layout=donut_vertical" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <br>
+  <img src="https://ghstats.dev/api/langs?username=LuisJ17&theme=ayu&hide_border=true&layout=donut_vertical&border_radius=20" alt="Top Languages" />
+</div>
 
   
