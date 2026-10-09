@@ -1,18 +1,14 @@
 <div align="center">
+  <img src="https://shieldcn.dev/header/transparent.svg?title=LUIS%20JUAREZ%20ALVAREZ&subtitle=Python%20•%20Linux%20•%20Docker%20•%20Terraform%20•%20AWS%20•%20GitHub%20Actions&mode=dark" alt="DevOps Header" />
 
-  <!-- Icono o logo superior minimalista -->
-  <img src="https://skillicons.dev/icons?i=linux,docker,terraform,aws,githubactions&per=5" alt="DevOps Tech Stack" />
-
-  # Luis Juarez Alvarez
-  
-  ### 🚀 DevOps & Cloud Journey (Meta 2026)
-
+  <br>
   <p align="center">
-    <a href="https://github.com/LuisJ17" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></a>
-    <a href="https://github.com/LuisJ17" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
-    <a href="https://github.com/LuisJ17" target="_blank"><img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/></a>
-    <a href="https://github.com/LuisJ17" target="_badge"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/></a>
-    <a href="https://github.com/LuisJ17" target="_blank"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/></a>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/>
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
   </p>
 
 </div>
